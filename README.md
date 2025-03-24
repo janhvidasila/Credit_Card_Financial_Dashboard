@@ -1,9 +1,9 @@
 # Credit Card Financial Dashboard
 
+
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/d8a9120a-38b2-4128-921a-b7cefde9bcac"/>
-  &nbsp; &nbsp;
-  <img src="https://github.com/user-attachments/assets/dcee6823-bb16-4384-bf6a-3f3e8f5c2f0d"/>
+  <img src="https://github.com/user-attachments/assets/d8a9120a-38b2-4128-921a-b7cefde9bcac" alt="Dashboard 1" style="width: 45%; display: inline-block; margin-right: 10px;" />
+  <img src="https://github.com/user-attachments/assets/dcee6823-bb16-4384-bf6a-3f3e8f5c2f0d" alt="Dashboard 2" style="width: 45%; display: inline-block;" />
 </p>
 
 
