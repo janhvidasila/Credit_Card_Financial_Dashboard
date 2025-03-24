@@ -1,5 +1,12 @@
 # Credit Card Financial Dashboard
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/d8a9120a-38b2-4128-921a-b7cefde9bcac"/>
+  &nbsp; &nbsp;
+  <img src="https://github.com/user-attachments/assets/dcee6823-bb16-4384-bf6a-3f3e8f5c2f0d"/>
+</p>
+
+
 This project presents a comprehensive **Credit Card Financial Dashboard** developed using **Power BI**. The dashboard offers insightful visualizations into credit card transactions and customer data, facilitating a deeper understanding of financial metrics and customer behaviors.
 
 ## Table of Contents
@@ -9,12 +16,7 @@ This project presents a comprehensive **Credit Card Financial Dashboard** develo
 - [Project Structure](#project-structure)
 - [Data Sources](#data-sources)
 - [Technologies Used](#technologies-used)
-- [Getting Started](#getting-started)
-- [Insights](#insights)
-- [Reports](#reports)
-- [Contributing](#contributing)
-- [License](#license)
-- [Acknowledgments](#acknowledgments)
+
 
 ## Overview
 
@@ -50,10 +52,4 @@ The dashboard utilizes data from multiple CSV files:
 - **SQL**: For data extraction and transformation.
 - **DAX (Data Analysis Expressions)**: For creating calculated columns and measures within Power BI.
 
-## Getting Started
 
-To explore and interact with the dashboard:
-
-1. **Clone the Repository**:
-   ```bash
-   git clone https://github.com/janhvidasila/Credit_Card_Financial_Dashboard.git
